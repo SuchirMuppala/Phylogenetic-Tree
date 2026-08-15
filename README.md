@@ -1,4 +1,5 @@
 # Phylogenetic Tree
+<img width="1418" height="807" alt="Screenshot 2026-08-15 at 11 46 31 AM" src="https://github.com/user-attachments/assets/a66532c8-a14b-4c05-8c9a-bceb21d8a8a5" />
 
 ## Description
 This project is a tool designed to organize organisms by their shared biomarkers into a phylogenetic tree, with data directly from NCBI's database.
